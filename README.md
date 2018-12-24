@@ -1,3 +1,5 @@
-# Christmas Snowman
+# Drawing with Turtle library - Python 3.7
 
-A little snowman draws with the turtle library from python 3.7 =D
+draw-snowman: Draws a christmas snowman =D
+
+draw-squares: Draws a flower using only squares.
